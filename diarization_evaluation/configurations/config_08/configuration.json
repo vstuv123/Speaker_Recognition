@@ -1,0 +1,8 @@
+{
+  "experiment": 3,
+  "threshold": 0.55,
+  "min_duration_off": 0.2,
+  "speaker_mode": "exact",
+  "num_speakers": 7,
+  "configuration_id": "config_08"
+}

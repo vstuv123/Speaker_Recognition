@@ -1,0 +1,37 @@
+# ==============================================================================
+# Python Caching & Bytecode (All subfolders and root)
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================================================================
+# Python Virtual Environments
+# ==============================================================================
+# Excludes your specific virtual environment folder and common alternatives
+env/
+.venv/
+venv/
+ENV/
+
+# ==============================================================================
+# Distribution / Packaging / Build Artifacts
+# ==============================================================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+workdir/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST

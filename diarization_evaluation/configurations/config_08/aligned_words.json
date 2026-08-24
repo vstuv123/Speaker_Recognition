@@ -1,0 +1,3145 @@
+[
+  {
+    "start": 5.01,
+    "end": 5.55,
+    "word": " مہاری",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 0.31417824074074086,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.16965625000000006
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 5.55,
+    "end": 5.91,
+    "word": " مہاری",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.3600000000000003
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 5.91,
+    "end": 7.01,
+    "word": " سکندر",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 1.0999999999999996
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 7.01,
+    "end": 7.55,
+    "word": " بھائی",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.54
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 7.55,
+    "end": 7.97,
+    "word": " صاحب",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.41999999999999993
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 7.97,
+    "end": 8.29,
+    "word": " مہاری",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.3199999999999994
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 8.29,
+    "end": 8.73,
+    "word": " مہاری",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.4400000000000013
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 8.73,
+    "end": 9.09,
+    "word": " بہت",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.35999999999999943
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 9.09,
+    "end": 9.45,
+    "word": " خوش",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.35999999999999943
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 9.45,
+    "end": 9.67,
+    "word": " ہوئی",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.22000000000000064
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 9.67,
+    "end": 9.91,
+    "word": " آپ",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.2400000000000002
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 9.91,
+    "end": 10.21,
+    "word": " لوگوں",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.3000000000000007
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 10.21,
+    "end": 10.35,
+    "word": " نے",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.1399999999999988
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 10.35,
+    "end": 10.77,
+    "word": " بہت",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.41999999999999993
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 10.77,
+    "end": 11.23,
+    "word": " اچھا",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.46000000000000085
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 11.23,
+    "end": 11.61,
+    "word": " ایونڈ",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.379999999999999
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 11.61,
+    "end": 12.05,
+    "word": " آرگنائز",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.4400000000000013
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 12.05,
+    "end": 12.31,
+    "word": " کیا",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.2599999999999998
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 12.31,
+    "end": 12.61,
+    "word": " تھا",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.29999999999999893
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 12.61,
+    "end": 13.59,
+    "word": " مہاری",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 0.1304528061224492,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.12784375000000026
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 15.09,
+    "end": 15.65,
+    "word": " مہاری",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.5600000000000005
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 15.65,
+    "end": 15.87,
+    "word": " مہاری",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 15.87,
+    "end": 16.49,
+    "word": " مہاری",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 0.9632560483871003,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.5972187500000015
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 18.7,
+    "end": 19.6,
+    "word": " ماما",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 0.1996180555555559,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.17965625000000074
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 19.6,
+    "end": 20.74,
+    "word": " حمزہ",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 0.18286732456140223,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.20846874999999798
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 21.7,
+    "end": 21.96,
+    "word": " کہاں",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.26000000000000156
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 21.96,
+    "end": 22.02,
+    "word": " ہے",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.05999999999999872
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 22.08,
+    "end": 23.08,
+    "word": " اتنی",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 0.2002812499999962,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.2002812499999962
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 23.08,
+    "end": 23.24,
+    "word": " دیر",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.16000000000000014
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 23.24,
+    "end": 23.34,
+    "word": " سے",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.10000000000000142
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 23.34,
+    "end": 23.64,
+    "word": " دکھائی",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.3000000000000007
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 23.64,
+    "end": 23.76,
+    "word": " نہیں",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.120000000000001
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 23.76,
+    "end": 24.0,
+    "word": " نہی",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.23999999999999844
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 24.0,
+    "end": 24.08,
+    "word": " رہا",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.0799999999999983
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 24.31,
+    "end": 25.39,
+    "word": " آہ",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.2930844907407408,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.3165312500000006
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 25.39,
+    "end": 25.61,
+    "word": " یہ",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 25.61,
+    "end": 25.73,
+    "word": " نہیں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.120000000000001
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 25.73,
+    "end": 26.27,
+    "word": " ہوگا",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.5399999999999991
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 26.27,
+    "end": 27.33,
+    "word": " کہیں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.12886202830188973,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.13659375000000296
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 27.74,
+    "end": 27.92,
+    "word": " بھی",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.18000000000000327
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 27.92,
+    "end": 28.0,
+    "word": " نہیں",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.0799999999999983
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 28.0,
+    "end": 28.12,
+    "word": " ہے",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.120000000000001
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 28.12,
+    "end": 28.26,
+    "word": " وہ",
+    "speaker": "SPEAKER_06",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_06": 0.14000000000000057
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 31.27,
+    "end": 32.31,
+    "word": " اسلام",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 0.2731069711538437,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2840312499999982
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 32.31,
+    "end": 32.71,
+    "word": " علیکم",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.3999999999999986
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 32.71,
+    "end": 33.07,
+    "word": " اسلام",
+    "speaker": "UNKNOWN",
+    "speaker_confidence": 0.3030381944444437,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.10909374999999955,
+      "SPEAKER_06": 0.08437500000000142,
+      "SPEAKER_02": 0.031531250000000455
+    },
+    "speaker_assignment_method": "unresolved"
+  },
+  {
+    "start": 33.07,
+    "end": 33.61,
+    "word": " علیکم",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.5399999999999991
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 46.86,
+    "end": 47.48,
+    "word": " والیکم",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 0.7020665322580604,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.4352812499999956
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 47.48,
+    "end": 47.86,
+    "word": " سلام",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.38000000000000256
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 47.86,
+    "end": 49.08,
+    "word": " علیہ",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 0.2861424180327884,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.34909375000000153
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 57.62,
+    "end": 57.7,
+    "word": " سے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.0800000000000054
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 57.7,
+    "end": 57.82,
+    "word": " کو",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.11999999999999744
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 57.82,
+    "end": 58.04,
+    "word": " لینے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 58.04,
+    "end": 58.26,
+    "word": " گئے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 58.26,
+    "end": 58.38,
+    "word": " تھے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 58.38,
+    "end": 58.46,
+    "word": " تو",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.0799999999999983
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 58.46,
+    "end": 58.78,
+    "word": " بتایا",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.3200000000000003
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 58.78,
+    "end": 59.02,
+    "word": " کیوں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.240000000000002
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 59.02,
+    "end": 59.16,
+    "word": " نہیں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.13999999999999346
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 59.16,
+    "end": 59.5,
+    "word": " ہمیں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.3400000000000034
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 69.62,
+    "end": 70.26,
+    "word": " جی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.6400000000000006
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 70.26,
+    "end": 70.56,
+    "word": " ماما",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.29999999999999716
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 70.56,
+    "end": 70.8,
+    "word": " وہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.23999999999999488
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 70.8,
+    "end": 70.8,
+    "word": " وہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.0,
+    "speaker_overlap_scores": {},
+    "speaker_assignment_method": "context"
+  },
+  {
+    "start": 70.87,
+    "end": 72.23,
+    "word": " ایچلی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.6773897058823536,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.9212500000000006
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 72.23,
+    "end": 72.35,
+    "word": " آپ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.11999999999999034
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 72.35,
+    "end": 72.59,
+    "word": " لوگوں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 72.59,
+    "end": 72.69,
+    "word": " کو",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.09999999999999432
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 72.69,
+    "end": 73.01,
+    "word": " سپرائز",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.3200000000000074
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 73.01,
+    "end": 73.25,
+    "word": " کرنا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.23999999999999488
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 73.25,
+    "end": 73.43,
+    "word": " چاہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 73.43,
+    "end": 73.57,
+    "word": " رہا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.13999999999998636
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 73.57,
+    "end": 73.69,
+    "word": " تھا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 73.69,
+    "end": 74.51,
+    "word": " تم",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.14447408536585873,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.11846875000000523
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 89.61,
+    "end": 89.81,
+    "word": " نے",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.20000000000000284
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 89.81,
+    "end": 89.95,
+    "word": " تو",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.14000000000000057
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 89.95,
+    "end": 90.25,
+    "word": " کہا",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.29999999999999716
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 90.25,
+    "end": 90.39,
+    "word": " تھا",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.14000000000000057
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 90.39,
+    "end": 90.55,
+    "word": " کہ",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.1599999999999966
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 90.55,
+    "end": 90.99,
+    "word": " حمزہ",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 90.99,
+    "end": 91.13,
+    "word": " اور",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.14000000000000057
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 91.13,
+    "end": 91.51,
+    "word": " علیزہ",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.38000000000000966
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 91.51,
+    "end": 91.71,
+    "word": " میں",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 91.71,
+    "end": 92.33,
+    "word": " بہت",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.6200000000000045
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 92.33,
+    "end": 92.75,
+    "word": " جھگڑے",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.4200000000000017
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 92.75,
+    "end": 92.87,
+    "word": " ہو",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 92.87,
+    "end": 93.11,
+    "word": " رہے",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.23999999999999488
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 93.11,
+    "end": 93.25,
+    "word": " ہیں",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.14000000000000057
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 93.25,
+    "end": 93.93,
+    "word": " اور",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 0.28033088235295506,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.19062500000001137
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 93.93,
+    "end": 94.09,
+    "word": " ان",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.1599999999999966
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 94.09,
+    "end": 94.29,
+    "word": " میں",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.20000000000000284
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 94.29,
+    "end": 94.41,
+    "word": " تو",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.11999999999999034
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 94.41,
+    "end": 94.85,
+    "word": " ڈیبورس",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 94.85,
+    "end": 95.07,
+    "word": " ہونے",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 95.07,
+    "end": 95.33,
+    "word": " والی",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.2600000000000051
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 95.33,
+    "end": 95.47,
+    "word": " ہے",
+    "speaker": "SPEAKER_02",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_02": 0.14000000000000057
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 97.16,
+    "end": 97.6,
+    "word": " ڈیبورس؟",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 98.59,
+    "end": 99.03,
+    "word": " نو",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.36853693181817315,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.16215624999999534
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 99.03,
+    "end": 99.39,
+    "word": " وے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.35999999999999943
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 110.19,
+    "end": 110.63,
+    "word": " اور",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.2323153409091053,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.1022187500000058
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 110.72,
+    "end": 111.16,
+    "word": " اب",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.2463778409090635,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.10840624999998738
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 111.16,
+    "end": 111.32,
+    "word": " تو",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.1599999999999966
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 111.32,
+    "end": 111.6,
+    "word": " بالکل",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.28000000000000114
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 111.6,
+    "end": 111.72,
+    "word": " بھی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 111.72,
+    "end": 111.84,
+    "word": " نہیں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 111.84,
+    "end": 112.68,
+    "word": " اب",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.04579613095238902,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.038468750000006935
+    },
+    "speaker_assignment_method": "context"
+  },
+  {
+    "start": 125.26,
+    "end": 125.54,
+    "word": " تو",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.28000000000000114
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 125.54,
+    "end": 126.12,
+    "word": " بہت",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.5799999999999983
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 126.12,
+    "end": 126.3,
+    "word": " بڑی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.1799999999999926
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 126.3,
+    "end": 126.8,
+    "word": " خوشخبری",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.5
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 126.8,
+    "end": 126.92,
+    "word": " تھی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 126.92,
+    "end": 126.98,
+    "word": " ہے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.060000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 126.98,
+    "end": 127.22,
+    "word": " علیزہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.23999999999999488
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 127.22,
+    "end": 127.42,
+    "word": " نے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.9173437500000018,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.18346875000000296
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 130.81,
+    "end": 131.61,
+    "word": " کیا",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.15347656250000122,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.12278125000000273
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 131.61,
+    "end": 132.07,
+    "word": " مطلب؟",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.45999999999997954
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 133.9,
+    "end": 134.34,
+    "word": " کیسی",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 134.34,
+    "end": 134.78,
+    "word": " خوشخبری؟",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.9567471590909465,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.4209687500000143
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 134.78,
+    "end": 135.2,
+    "word": " ایل",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.0,
+    "speaker_overlap_scores": {},
+    "speaker_assignment_method": "context"
+  },
+  {
+    "start": 146.72,
+    "end": 147.32,
+    "word": " ایچلی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.5999999999999943
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 147.32,
+    "end": 148.34,
+    "word": " میں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.4705882352941029,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.47999999999998977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 148.34,
+    "end": 148.52,
+    "word": " اور",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 148.52,
+    "end": 148.82,
+    "word": " علیزہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.29999999999998295
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 148.82,
+    "end": 148.94,
+    "word": " آپ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 148.94,
+    "end": 149.16,
+    "word": " سب",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 149.16,
+    "end": 149.26,
+    "word": " کو",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.09999999999999432
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 149.26,
+    "end": 149.62,
+    "word": " سپرائز",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.36000000000001364
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 149.62,
+    "end": 149.84,
+    "word": " کرنا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 149.84,
+    "end": 150.04,
+    "word": " چاہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 150.04,
+    "end": 150.22,
+    "word": " رہے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 150.22,
+    "end": 150.32,
+    "word": " ہیں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.9971875000002796,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.09971875000002228
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 150.68,
+    "end": 151.52,
+    "word": " لیکن",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.1833705357142882,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.15403125000000273
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 151.52,
+    "end": 151.7,
+    "word": " آئی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.1799999999999784
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 151.7,
+    "end": 151.8,
+    "word": " ٹھیک",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.10000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 151.8,
+    "end": 151.86,
+    "word": " ہے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.060000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 151.86,
+    "end": 151.9,
+    "word": " کہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.03999999999999204
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 151.9,
+    "end": 152.06,
+    "word": " بہت",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.1599999999999966
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 152.06,
+    "end": 152.26,
+    "word": " اچھا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 152.26,
+    "end": 152.54,
+    "word": " موقع",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.28000000000000114
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 152.54,
+    "end": 152.66,
+    "word": " ہے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 155.15,
+    "end": 155.67,
+    "word": " علیزہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.25186298076922775,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.13096874999999386
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 156.76,
+    "end": 157.28,
+    "word": " ماں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.3394831730768823,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.17653124999998226
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 157.28,
+    "end": 157.6,
+    "word": " بننے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.3199999999999932
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 157.6,
+    "end": 157.88,
+    "word": " والی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.28000000000000114
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 157.88,
+    "end": 158.5,
+    "word": " اور",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.16285282258067807,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.10096875000002115
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 175.9,
+    "end": 176.3,
+    "word": " میں",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 0.6147656249999668,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.24590624999999022,
+      "SPEAKER_01": 0.016874999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 176.3,
+    "end": 176.64,
+    "word": " باپ",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.339999999999975
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 177.57,
+    "end": 178.49,
+    "word": " بہت",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 0.1348165760869559,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.12403125000000159
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 178.49,
+    "end": 178.71,
+    "word": " بہت",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 178.71,
+    "end": 179.01,
+    "word": " توہر",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.29999999999998295
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 179.01,
+    "end": 179.51,
+    "word": " مبارک",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.5
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 179.51,
+    "end": 179.59,
+    "word": " ہو",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.0800000000000125
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 179.59,
+    "end": 179.79,
+    "word": " بیٹا",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 182.11,
+    "end": 182.63,
+    "word": " پہلے",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 0.41159855769227705,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.21403124999997658
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 182.63,
+    "end": 182.85,
+    "word": " کیوں",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 182.85,
+    "end": 182.93,
+    "word": " نہیں",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.0800000000000125
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 182.93,
+    "end": 183.23,
+    "word": " بتایا",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.29999999999998295
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 183.23,
+    "end": 183.39,
+    "word": " تم",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.1599999999999966
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 183.39,
+    "end": 183.57,
+    "word": " نے",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 183.57,
+    "end": 183.93,
+    "word": " حمزہ",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.36000000000001364
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 183.93,
+    "end": 184.37,
+    "word": " اتنی",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 184.37,
+    "end": 184.55,
+    "word": " بڑی",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 184.55,
+    "end": 184.73,
+    "word": " خوش",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.1799999999999784
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 184.73,
+    "end": 185.05,
+    "word": " قبری",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.3200000000000216
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 185.05,
+    "end": 185.11,
+    "word": " ہم",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.060000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 185.11,
+    "end": 185.25,
+    "word": " سے",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.13999999999998636
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 185.25,
+    "end": 185.47,
+    "word": " کیوں",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 185.47,
+    "end": 185.85,
+    "word": " چھپائے",
+    "speaker": "SPEAKER_03",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_03": 0.37999999999999545
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 187.64,
+    "end": 188.16,
+    "word": " ماں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.49933894230763964,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.2596562499999777
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 188.16,
+    "end": 188.36,
+    "word": " ماں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.20000000000001705
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 189.34,
+    "end": 189.86,
+    "word": " میں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.32866586538461195,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.1709062500000016
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 189.86,
+    "end": 190.12,
+    "word": " اور",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.2599999999999909
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 190.12,
+    "end": 190.52,
+    "word": " علیزہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.4000000000000057
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 190.52,
+    "end": 191.28,
+    "word": " آپ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.7599999999999909
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 191.28,
+    "end": 191.58,
+    "word": " لوگوں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.30000000000001137
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 191.58,
+    "end": 191.68,
+    "word": " کو",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.09999999999999432
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 191.68,
+    "end": 192.06,
+    "word": " سرپرائز",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.37999999999999545
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 192.06,
+    "end": 192.28,
+    "word": " کرنا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 192.28,
+    "end": 192.48,
+    "word": " چاہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 192.48,
+    "end": 192.66,
+    "word": " رہے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 192.66,
+    "end": 192.78,
+    "word": " تھے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 201.9,
+    "end": 202.88,
+    "word": " اگر",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.2700573979591591,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.26465624999997317
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 202.88,
+    "end": 203.44,
+    "word": " ایسی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.5600000000000023
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 203.44,
+    "end": 203.76,
+    "word": " بتا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.3199999999999932
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 203.76,
+    "end": 203.98,
+    "word": " دیتے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 203.98,
+    "end": 204.12,
+    "word": " تو",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.14000000000001478
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 204.12,
+    "end": 204.86,
+    "word": " آپ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.566722972972969,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.4193750000000023
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 204.86,
+    "end": 205.18,
+    "word": " لوگوں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.3199999999999932
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 205.18,
+    "end": 205.24,
+    "word": " کی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.060000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 205.24,
+    "end": 205.46,
+    "word": " چہرے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 205.46,
+    "end": 205.6,
+    "word": " پر",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.13999999999998636
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 205.6,
+    "end": 205.68,
+    "word": " یہ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.0800000000000125
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 205.68,
+    "end": 205.88,
+    "word": " خوشی",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 205.88,
+    "end": 206.1,
+    "word": " کیسے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 206.1,
+    "end": 206.44,
+    "word": " دیکھتے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.3400000000000034
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 206.44,
+    "end": 207.42,
+    "word": " بیٹا",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.14384566326532108,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.1409687500000132
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 223.62,
+    "end": 224.14,
+    "word": " تمہارا",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 0.8935697115384194,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.4646562499999618
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 224.14,
+    "end": 224.66,
+    "word": " سرپرائز",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.5200000000000102
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 224.66,
+    "end": 224.9,
+    "word": " بہت",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 224.9,
+    "end": 225.34,
+    "word": " اچھا",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 225.34,
+    "end": 225.52,
+    "word": " لگا",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 225.52,
+    "end": 225.88,
+    "word": " ہمیں",
+    "speaker": "SPEAKER_00",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_00": 0.3599999999999852
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 231.99,
+    "end": 232.89,
+    "word": " کیا",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 0.15100694444442223,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.13590624999997658
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 232.89,
+    "end": 233.03,
+    "word": " ہوا",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.14000000000001478
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 233.03,
+    "end": 233.17,
+    "word": " آنٹی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.13999999999998636
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 233.89,
+    "end": 234.41,
+    "word": " خوشی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 0.4909254807691586,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2552812499999675
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 234.41,
+    "end": 234.51,
+    "word": " نہیں",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.09999999999999432
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 234.51,
+    "end": 234.63,
+    "word": " ہو",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 234.63,
+    "end": 234.79,
+    "word": " رہی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.1599999999999966
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 234.79,
+    "end": 234.89,
+    "word": " آپ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.09999999999999432
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 234.89,
+    "end": 235.13,
+    "word": " کو",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 235.13,
+    "end": 235.83,
+    "word": " یہ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 0.12549107142859534,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.08784375000001887
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 249.2,
+    "end": 249.52,
+    "word": " مطلب",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.3200000000000216
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 249.52,
+    "end": 249.64,
+    "word": " ہے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.11999999999997613
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 249.64,
+    "end": 249.8,
+    "word": " کہ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.160000000000025
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 249.8,
+    "end": 251.02,
+    "word": " مبارک",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 1.2199999999999989
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 251.02,
+    "end": 251.24,
+    "word": " بات",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.21999999999999886
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 251.24,
+    "end": 251.36,
+    "word": " نہیں",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 251.36,
+    "end": 251.56,
+    "word": " دی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 251.56,
+    "end": 251.7,
+    "word": " نا",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.13999999999998636
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 251.7,
+    "end": 251.82,
+    "word": " آپ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 251.82,
+    "end": 252.06,
+    "word": " نے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 252.06,
+    "end": 252.5,
+    "word": " تو",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 252.5,
+    "end": 252.82,
+    "word": " سوچا",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.3199999999999932
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 252.82,
+    "end": 253.16,
+    "word": " پوچھ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.3400000000000034
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 253.16,
+    "end": 253.36,
+    "word": " لوں",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.20000000000001705
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 262.9,
+    "end": 263.34,
+    "word": " مجھے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.4409801136362894,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.19403124999996635
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 263.34,
+    "end": 263.58,
+    "word": " والا",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 263.58,
+    "end": 263.84,
+    "word": " خوشی",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.2599999999999909
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 263.84,
+    "end": 264.04,
+    "word": " کیوں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.20000000000004547
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 264.04,
+    "end": 264.18,
+    "word": " نہیں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.13999999999998636
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 264.18,
+    "end": 264.48,
+    "word": " ہوگی",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.30000000000001137
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 265.44,
+    "end": 265.88,
+    "word": " ہمارے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.7293323863635275,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.32090624999995043
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 265.88,
+    "end": 266.06,
+    "word": " گھر",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 266.06,
+    "end": 266.22,
+    "word": " میں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.160000000000025
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 266.22,
+    "end": 266.32,
+    "word": " یہ",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.0999999999999659
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 266.32,
+    "end": 266.58,
+    "word": " پہلا",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.2599999999999909
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 266.58,
+    "end": 266.96,
+    "word": " بچہ",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.37999999999999545
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 266.96,
+    "end": 267.08,
+    "word": " آ",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 267.08,
+    "end": 267.26,
+    "word": " رہا",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 267.26,
+    "end": 267.34,
+    "word": " ہے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.07999999999998408
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 267.34,
+    "end": 267.98,
+    "word": " مجھے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.6400000000000432
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 267.98,
+    "end": 268.1,
+    "word": " تو",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 268.1,
+    "end": 268.36,
+    "word": " بہت",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.2599999999999909
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 268.36,
+    "end": 268.68,
+    "word": " خوشی",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.3199999999999932
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 268.68,
+    "end": 268.8,
+    "word": " ہو",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 268.8,
+    "end": 269.0,
+    "word": " رہی",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 269.0,
+    "end": 269.18,
+    "word": " ہے",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.18000000000000682
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 275.07,
+    "end": 275.51,
+    "word": " ماشاءاللہ",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.4399999999999977
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 275.51,
+    "end": 276.25,
+    "word": " بہت",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 0.5895270270270597,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.43625000000002956
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 276.25,
+    "end": 276.51,
+    "word": " بہت",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.2599999999999909
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 276.51,
+    "end": 276.93,
+    "word": " مبارک",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.4200000000000159
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 276.93,
+    "end": 276.99,
+    "word": " ہو",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.060000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 276.99,
+    "end": 277.15,
+    "word": " تم",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.15999999999996817
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 277.15,
+    "end": 277.51,
+    "word": " دونوں",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.36000000000001364
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 277.51,
+    "end": 277.67,
+    "word": " کا",
+    "speaker": "SPEAKER_05",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_05": 0.160000000000025
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 283.22,
+    "end": 283.66,
+    "word": " لگ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 0.5233664772727723,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.23028125000001864
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 283.66,
+    "end": 283.88,
+    "word": " رہا",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.21999999999997044
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 283.88,
+    "end": 283.98,
+    "word": " ہے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.10000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 283.98,
+    "end": 284.82,
+    "word": " آپ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 0.10829613095238634,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.09096875000000182
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 285.2,
+    "end": 285.4,
+    "word": " کے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 285.4,
+    "end": 285.64,
+    "word": " چہرے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 285.64,
+    "end": 285.86,
+    "word": " پر",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.22000000000002728
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 285.86,
+    "end": 286.24,
+    "word": " خوشی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.37999999999999545
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 286.24,
+    "end": 286.62,
+    "word": " کافی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.37999999999999545
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 286.62,
+    "end": 286.98,
+    "word": " زیادہ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.36000000000001364
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 286.98,
+    "end": 287.22,
+    "word": " نظر",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 287.22,
+    "end": 287.34,
+    "word": " آ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.1199999999999477
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 287.34,
+    "end": 287.5,
+    "word": " رہی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.160000000000025
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 287.5,
+    "end": 287.66,
+    "word": " ہے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.160000000000025
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 288.24,
+    "end": 288.68,
+    "word": " مجھے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 0.5801846590909028,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2552812499999959
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 288.68,
+    "end": 289.04,
+    "word": " اندازہ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.36000000000001364
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 289.04,
+    "end": 289.24,
+    "word": " تھا",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 289.24,
+    "end": 289.96,
+    "word": " آنٹی",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.7199999999999704
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 289.96,
+    "end": 290.12,
+    "word": " نے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.160000000000025
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 290.12,
+    "end": 290.34,
+    "word": " سب",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.21999999999997044
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 290.34,
+    "end": 290.44,
+    "word": " سے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.10000000000002274
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 290.44,
+    "end": 290.66,
+    "word": " زیادہ",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.22000000000002728
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 290.66,
+    "end": 290.88,
+    "word": " خوش",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.21999999999997044
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 290.88,
+    "end": 291.12,
+    "word": " ہونا",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.2400000000000091
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 291.12,
+    "end": 291.24,
+    "word": " ہے",
+    "speaker": "SPEAKER_04",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_04": 0.12000000000000455
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 302.11,
+    "end": 302.55,
+    "word": " چلیں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.8828835227273124,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.38846875000001546
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 302.55,
+    "end": 302.99,
+    "word": " آپ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.0,
+    "speaker_overlap_scores": {},
+    "speaker_assignment_method": "context"
+  },
+  {
+    "start": 302.99,
+    "end": 303.35,
+    "word": " لوگ",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 0.9122395833333,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.32840625000000045
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 303.35,
+    "end": 303.67,
+    "word": " انجوئے",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.3199999999999932
+    },
+    "speaker_assignment_method": "overlap"
+  },
+  {
+    "start": 303.67,
+    "end": 303.87,
+    "word": " کریں",
+    "speaker": "SPEAKER_01",
+    "speaker_confidence": 1.0,
+    "speaker_overlap_scores": {
+      "SPEAKER_01": 0.19999999999998863
+    },
+    "speaker_assignment_method": "overlap"
+  }
+]

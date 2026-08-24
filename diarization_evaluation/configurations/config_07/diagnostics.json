@@ -1,0 +1,82 @@
+{
+  "detected_speakers": 6,
+  "speaker_turns": 54,
+  "total_speech_duration": 81.11812499999996,
+  "average_turn_duration": 1.5062499999999996,
+  "median_turn_duration": 1.0546874999999858,
+  "extremely_short_turns": 3,
+  "short_turns_under_0_25": 3,
+  "short_turns_under_0_50": 6,
+  "short_turns_under_1_00": 26,
+  "gap_count": 49,
+  "gap_duration": 217.46812500000004,
+  "overlap_region_count": 2,
+  "overlap_duration": 0.21937500000001364,
+  "short_overlap_regions": 2,
+  "fragmentation_per_speech_minute": 39.941751612232174,
+  "speaker_duration_balance_cv": 0.5172927714899486,
+  "minor_speaker_count": 0,
+  "duration_per_speaker": {
+    "SPEAKER_00": 4.438124999999985,
+    "SPEAKER_01": 15.525000000000004,
+    "SPEAKER_02": 13.938750000000049,
+    "SPEAKER_03": 17.634375000000027,
+    "SPEAKER_04": 5.2143750000000075,
+    "SPEAKER_05": 24.586874999999907
+  },
+  "turns_per_speaker": {
+    "SPEAKER_00": 3,
+    "SPEAKER_01": 6,
+    "SPEAKER_02": 8,
+    "SPEAKER_03": 9,
+    "SPEAKER_04": 7,
+    "SPEAKER_05": 21
+  },
+  "audio_percentage_per_speaker": {
+    "SPEAKER_00": 1.3450385296114262,
+    "SPEAKER_01": 4.705077746169264,
+    "SPEAKER_02": 4.224341541669375,
+    "SPEAKER_03": 5.344354613855313,
+    "SPEAKER_04": 1.5802924169198964,
+    "SPEAKER_05": 7.451411169748469
+  },
+  "overlap_regions": [
+    {
+      "start": 151.95659375,
+      "end": 152.02409375000002,
+      "speakers": [
+        "SPEAKER_04",
+        "SPEAKER_05"
+      ],
+      "duration": 0.06750000000002387
+    },
+    {
+      "start": 178.97346875000002,
+      "end": 179.12534375,
+      "speakers": [
+        "SPEAKER_00",
+        "SPEAKER_05"
+      ],
+      "duration": 0.15187499999998977
+    }
+  ],
+  "word_count": 286,
+  "word_switches": 24,
+  "isolated_one_word_assignments": 0,
+  "rapid_word_switches": 6,
+  "suspicious_aba_patterns": 0,
+  "average_words_per_speaker_segment": 11.44,
+  "unknown_word_percentage": 1.048951048951049,
+  "word_percentage_per_speaker": {
+    "SPEAKER_00": 3.8461538461538463,
+    "SPEAKER_01": 16.083916083916083,
+    "SPEAKER_02": 17.832167832167833,
+    "SPEAKER_03": 22.727272727272727,
+    "SPEAKER_04": 8.041958041958042,
+    "SPEAKER_05": 30.419580419580424,
+    "UNKNOWN": 1.048951048951049
+  },
+  "runtime_seconds": 6.760003000032157,
+  "configuration_id": "config_07",
+  "experiment": 2
+}

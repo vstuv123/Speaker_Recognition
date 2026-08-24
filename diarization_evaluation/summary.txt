@@ -1,0 +1,19 @@
+UNSUPERVISED / HEURISTIC DIARIZATION EVALUATION
+No ground-truth speaker annotation was available; scores measure stability, not correctness.
+
+Configuration | Speakers | Turns | Short Turns | Fragmentation | Word Switches | Score
+------------------------------------------------------------------------------------------------
+config_08 | 7 | 52 | 2 | 38.46 | 20 | 95.00
+config_06 | 6 | 54 | 3 | 39.94 | 24 | 52.08
+config_07 | 6 | 54 | 3 | 39.94 | 24 | 52.08
+config_05 | 6 | 55 | 3 | 40.68 | 24 | 50.18
+config_01 | 6 | 58 | 5 | 42.91 | 23 | 39.62
+config_02 | 6 | 58 | 5 | 42.91 | 23 | 39.62
+config_03 | 6 | 58 | 5 | 42.91 | 23 | 39.62
+config_04 | 6 | 58 | 5 | 42.91 | 23 | 39.62
+
+BEST CONFIGURATION: config_08
+MOST STABLE CONFIGURATION: config_08
+MOST CONSERVATIVE CONFIGURATION: config_06
+
+Recommendation must be reviewed against the audio before production use.
