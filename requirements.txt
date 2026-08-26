@@ -9,3 +9,5 @@ scipy
 pyloudnorm
 noisereduce
 demucs
+speechbrain 
+torchaudio

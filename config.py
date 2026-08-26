@@ -14,6 +14,7 @@ class Config:
 
     # ------------------------------------------------------------------
     # Hugging Face token (required for pyannote)
+    # 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
     # Create one at: https://huggingface.co/settings/tokens
     # Accept conditions for:
     # https://huggingface.co/pyannote/speaker-diarization-community-1
@@ -127,6 +128,12 @@ class Config:
     speaker_switch_context_seconds: float = 1.5
     smoothing_min_majority_ratio: float = 0.66
     speaker_switch_protect_confidence: float = 0.7
+
+    # ------------------------------------------------------------------
+    # Speaker identification (optional)
+    enable_speaker_identification: bool = True
+    embeddings_db_path: str = "embeddings.json"
+    identity_similarity_threshold: float = 0.49
 
     # ------------------------------------------------------------------
     # SRT block chunking

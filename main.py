@@ -9,16 +9,23 @@ not the vocal-separated/cleaned version used for transcription.
 
 Usage:
     python main.py
-    python main.py --input my_audio.wav --output out.srt --num-speakers 5
+    python main.py --input audio.wav --output out.srt --num-speakers 5
 """
 
 import argparse
 import os
+import librosa.core.audio  # forces the problematic submodule to load early, safely
+
+FFMPEG_BIN = r"E:\ffmpeg7-shared\bin"
+
+os.add_dll_directory(FFMPEG_BIN)
+os.environ["PATH"] = FFMPEG_BIN + os.pathsep + os.environ["PATH"]
 
 from config import Config
 from audio_processing.vocal_separation import separate_vocals
 from audio_processing.preprocessing import clean_audio, prepare_diarization_audio
 from diarization.diarizer import Diarizer
+
 from transcription.transcriber import Transcriber
 from alignment.aligner import assign_speakers_to_words, smooth_speaker_labels
 from subtitles.srt_writer import build_srt_blocks, write_srt
@@ -206,6 +213,22 @@ def run_pipeline(cfg: Config):
         min_segment_duration=cfg.diarization_min_segment_duration,
         verbose=cfg.diarization_verbose,
     )
+
+    # after: diarization_segments = diarizer.run(...)
+    if cfg.enable_speaker_identification:
+        from speaker_recognition.identify import identify_speakers
+        print("Identifying speakers against enrolled actor database...")
+        speaker_name_map = identify_speakers(
+            diarize_audio_path,          # raw diarization audio -- matches how
+                                       # segments were produced; try cleaned.wav
+                                       # too and compare results
+            diarization_segments,
+            cfg.embeddings_db_path,
+            threshold=cfg.identity_similarity_threshold,
+            device=cfg.whisper_device,
+        )
+        for seg in diarization_segments:
+            seg["speaker"] = speaker_name_map.get(seg["speaker"], seg["speaker"])
 
     # 4. Transcription - what was said, with word-level timestamps.
     transcriber = Transcriber(cfg.whisper_model, cfg.whisper_device, cfg.whisper_compute_type)
