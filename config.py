@@ -14,7 +14,7 @@ class Config:
 
     # ------------------------------------------------------------------
     # Hugging Face token (required for pyannote)
-    # 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
+
     # Create one at: https://huggingface.co/settings/tokens
     # Accept conditions for:
     # https://huggingface.co/pyannote/speaker-diarization-community-1
