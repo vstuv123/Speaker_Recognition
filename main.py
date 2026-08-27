@@ -219,13 +219,14 @@ def run_pipeline(cfg: Config):
         from speaker_recognition.identify import identify_speakers
         print("Identifying speakers against enrolled actor database...")
         speaker_name_map = identify_speakers(
-            diarize_audio_path,          # raw diarization audio -- matches how
+            audio_path,          # raw diarization audio -- matches how
                                        # segments were produced; try cleaned.wav
                                        # too and compare results
             diarization_segments,
             cfg.embeddings_db_path,
             threshold=cfg.identity_similarity_threshold,
             device=cfg.whisper_device,
+            model_dir=cfg.speaker_identification_model_dir,
         )
         for seg in diarization_segments:
             seg["speaker"] = speaker_name_map.get(seg["speaker"], seg["speaker"])

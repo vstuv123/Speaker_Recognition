@@ -8,9 +8,9 @@ from collections import defaultdict
 import numpy as np
 import soundfile as sf
 
-from .embedder import EcapaEmbedder
+from .wespeaker_embedder import WeSpeakerEmbedder
 
-DEFAULT_THRESHOLD = 0.49
+DEFAULT_THRESHOLD = 0.50 # similarity threshold for accepting a match
 MAX_CLUSTER_SECONDS = 30.0  # cap audio per cluster -- more isn't always better
 
 
@@ -55,9 +55,9 @@ def collect_speaker_audio(audio_path, diarization_segments, max_seconds=MAX_CLUS
 
 
 def identify_speakers(audio_path, diarization_segments, embeddings_db_path,
-                       threshold=DEFAULT_THRESHOLD, device="cuda"):
+                       threshold=DEFAULT_THRESHOLD, device="cuda", model_dir="models/samresnet100_voxblink2"):
     """Returns {"SPEAKER_00": "Feroze Khan", "SPEAKER_01": "UNKNOWN", ...}"""
-    embedder = EcapaEmbedder(device=device)
+    embedder = WeSpeakerEmbedder(model_dir=model_dir, device=device)
     db = load_embeddings_db(embeddings_db_path)
     speaker_audio = collect_speaker_audio(audio_path, diarization_segments)
 

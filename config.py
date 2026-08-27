@@ -14,7 +14,7 @@ class Config:
 
     # ------------------------------------------------------------------
     # Hugging Face token (required for pyannote)
-
+    # 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
     # Create one at: https://huggingface.co/settings/tokens
     # Accept conditions for:
     # https://huggingface.co/pyannote/speaker-diarization-community-1
@@ -132,9 +132,9 @@ class Config:
     # ------------------------------------------------------------------
     # Speaker identification (optional)
     enable_speaker_identification: bool = True
-    embeddings_db_path: str = "embeddings.json"
-    identity_similarity_threshold: float = 0.49
-
+    embeddings_db_path: str = "embeddings_resnet293.json"
+    identity_similarity_threshold: float = 0.50
+    speaker_identification_model_dir: str = "models/resnet293_voxceleb"
     # ------------------------------------------------------------------
     # SRT block chunking
     # ------------------------------------------------------------------
