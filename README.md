@@ -12,6 +12,7 @@ original input
 diarization + word timestamps -> overlap alignment -> smoothing -> SRT
 ```
 
+
 ## Folder structure
 
 ```
@@ -178,3 +179,130 @@ not an end-to-end quality guarantee for arbitrary audio.
 - The installed TorchCodec library currently emits a load warning. The
   diarizer catches the related read failure and supplies a SoundFile-loaded
   waveform dictionary to Community-1 instead.
+
+
+# Speaker Recognition (Actor Identification) — Setup & Usage
+
+This extends the base diarization pipeline with a second stage: after
+diarization labels *who spoke when* (`SPEAKER_00`, `SPEAKER_01`, ...), this
+module identifies *which actual actor* each label corresponds to, using
+speaker embedding models compared against an enrolled database via cosine
+similarity.
+
+## 1. Prerequisites
+
+Install WeSpeaker from source (PyPI package is not the real project —
+always install from GitHub):
+
+```powershell
+pip install "git+https://github.com/wenet-e2e/wespeaker.git"
+```
+
+> **Known issue:** the installed CLI's CUDA path is currently broken —
+> passing `--device cuda:0` crashes with
+> `RuntimeError: Input type (torch.FloatTensor) and weight type
+> (torch.cuda.FloatTensor) should be the same...`. Until this is fixed
+> upstream, **always use `--device cpu`** for this module. Embedding
+> extraction on short clips is fast enough on CPU that this isn't a real
+> bottleneck.
+
+## 2. Download model checkpoints
+
+Each model needs `avg_model.pt` + `config.yaml` in its own folder.
+
+**SimAM-ResNet100 (VoxBlink2, multilingual):**
+```powershell
+mkdir models\samresnet100_voxblink2
+```
+Download both files from https://huggingface.co/lengyue233/wespeaker-voxblink2-samresnet100
+into that folder.
+
+**ResNet293 (VoxCeleb):**
+```powershell
+mkdir models\resnet293_voxceleb
+```
+Download both files from https://huggingface.co/Wespeaker/wespeaker-voxceleb-resnet293-LM
+into that folder.
+
+**ECAPA-TDNN (SpeechBrain, separate backend, no manual download needed —
+fetched automatically on first run):**
+```powershell
+pip install speechbrain torchaudio
+```
+
+## 3. Verify a model works before wiring it in
+
+```powershell
+wespeaker --task embedding --audio_file "actors\<ActorName>\clip1.wav" --pretrain models\samresnet100_voxblink2 --device cpu --output_file test_embedding.txt
+type test_embedding.txt
+```
+
+You should see `Succeed, see test_embedding.txt` and a column of floats
+(one per embedding dimension — 256-d for SamResNet100, may differ for
+other models). If this fails, fix it here before touching the pipeline —
+it isolates model loading from everything else.
+
+
+## 5. Enrollment — build the actor embeddings database
+
+Run once per model you want to test. Enrollment clips should ideally be
+run through the **same vocal-separation + cleaning steps as the main
+pipeline**, so enrollment and drama-query audio are in the same acoustic
+domain (raw vs. cleaned mismatch measurably hurts cosine similarity).
+
+```powershell
+python -m speaker_recognition.enroll --actors-dir actors --output embeddings_samresnet100.json --model-dir models\samresnet100_voxblink2
+
+python -m speaker_recognition.enroll --actors-dir actors --output embeddings_resnet293.json --model-dir models\resnet293_voxceleb
+```
+
+## 7. Wire the chosen model into `config.py`
+
+```python
+enable_speaker_identification: bool = True
+embeddings_db_path: str = "embeddings_samresnet100.json"
+speaker_id_model_dir: str = "models/samresnet100_voxblink2"
+identity_similarity_threshold: float = 0.65  # tune from your benchmark's best_f1_operating_point
+```
+
+## 8. Run the full pipeline
+
+```powershell
+python main.py --input audio.wav --output out.srt
+```
+
+Identification runs **after diarization, before word alignment**, and
+resolves speakers **per segment group** (not per whole diarization label)
+so that a diarization *merge* error — two real actors sharing one
+`SPEAKER_XX` label — can still resolve to two different correct names
+instead of forcing one wrong identity onto both.
+
+The final `out.srt` will show actor names (`Feroze Khan:`) instead of
+`SPEAKER_00:` wherever a match clears the threshold; unmatched speakers
+(extras, background voices, no enrollment on file) stay `UNKNOWN`.
+
+## 9. Switching models later
+
+Only two things change per model — everything else in the pipeline stays
+identical:
+1. `speaker_id_model_dir` → the checkpoint folder
+2. `embeddings_db_path` → the matching `embeddings_<model>.json` (**never
+   mix an embeddings file built with one model against a different
+   model's query embeddings** — cosine similarity across two different
+   embedding spaces is meaningless and produces near-random low scores
+   that look like total failure but are actually a wiring mismatch)
+
+## Troubleshooting notes (from getting this running)
+
+- **`AttributeError: module 'wespeaker' has no attribute 'load_model_local'`** —
+  the installed version renamed/changed the internal Python API. This
+  module avoids that entirely by calling the `wespeaker` CLI via
+  subprocess instead of the internal Python API, which has stayed stable
+  across versions.
+- **`unrecognized arguments: --gpu`** — the CLI flag is `--device`, not
+  `--gpu` (e.g. `--device cpu` or `--device cuda:0`).
+- **CUDA forward-pass crash** — known bug in this wespeaker version, use
+  `--device cpu` (see Prerequisites above).
+- **`soundfile.LibsndfileError` on a clip path** — almost always a wrong/
+  nonexistent file path, not a real audio problem. Verify with
+  `Test-Path <path>` first.

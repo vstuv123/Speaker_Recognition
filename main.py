@@ -219,7 +219,7 @@ def run_pipeline(cfg: Config):
         from speaker_recognition.identify import identify_speakers
         print("Identifying speakers against enrolled actor database...")
         speaker_name_map = identify_speakers(
-            audio_path,          # raw diarization audio -- matches how
+            diarize_audio_path,          # raw diarization audio -- matches how
                                        # segments were produced; try cleaned.wav
                                        # too and compare results
             diarization_segments,
