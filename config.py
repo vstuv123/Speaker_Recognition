@@ -40,7 +40,7 @@ class Config:
     # ------------------------------------------------------------------
     # Whisper (transcription)
     # ------------------------------------------------------------------
-    whisper_model: str = "large-v3"
+    whisper_model: str = "large-v3-turbo"
     whisper_device: str = "cuda"
     whisper_compute_type: str = "float16"
     language: str = "ur"

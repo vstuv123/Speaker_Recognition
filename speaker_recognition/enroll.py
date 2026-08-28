@@ -20,7 +20,7 @@ import os
 from .wespeaker_embedder import WeSpeakerEmbedder
 
 
-def build_embeddings(actors_dir, output_path, device="cuda", model_dir="models/samresnet100_voxblink2"):
+def build_embeddings(actors_dir, output_path, device="cuda", model_dir="models/resnet293_voxceleb"):
     embedder = WeSpeakerEmbedder(model_dir=model_dir, device=device)
     db = {}
 
@@ -52,7 +52,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--actors-dir", default="actors")
     parser.add_argument("--output", default="embeddings.json")
-    parser.add_argument("--model-dir", default="models/samresnet100_voxblink2")
+    parser.add_argument("--model-dir", default="models/resnet293_voxceleb")
     parser.add_argument("--device", default="cuda")
     args = parser.parse_args()
     build_embeddings(args.actors_dir, args.output, args.device, args.model_dir)
